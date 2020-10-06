@@ -1,0 +1,20 @@
+/* .contact-form i {
+    height: 0;
+    float: left;
+    position: relative;
+    top: -32px;
+    left: 10px;
+    color: 999;
+} 
+.contact-form input:not([type="submit"]) + i {
+    height: 0;
+    float: left;
+    position: relative;
+    top: -32px;
+    left: 10px;
+    color: 999;
+} */
+
+.contact-form .custom-error{
+    display: none;
+}
